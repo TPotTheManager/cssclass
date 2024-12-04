@@ -1,0 +1,33 @@
+body {
+    font-family: times, arial, sans-serif;
+    font-size: 125%
+}
+
+header {
+    background-color:black
+}
+
+nav{
+background-color:darkgray
+}
+
+main{
+    background-color:black
+    font-size=95%
+}
+footer {background-color:darkgray
+}
+
+li {
+    display:block-inline
+    width=180px;
+
+}
+h1{
+    text-align: justify
+    font-family: times, arial, sans-serif
+
+}
+p {
+    line-height: 50px
+}
