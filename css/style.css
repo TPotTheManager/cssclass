@@ -8,14 +8,14 @@ header {
 }
 
 nav{
-background-color:darkgray
+background-color:rgb(77, 77, 77)
 }
 
 main{
     background-color:black
     font-size=95%
 }
-footer {background-color:darkgray
+footer {background-color:rgb(77, 77, 77)
 }
 
 li {
